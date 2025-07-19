@@ -1,0 +1,1884 @@
+{
+  "songInfo": {
+    "title": "Spiral",
+    "language": "Japanese",
+    "theme": "成长、反思、勇气",
+    "description": "一首关于自我反思和重新开始的歌曲"
+  },
+  "structure": [
+    {
+      "section": "前奏部分",
+      "type": "intro",
+      "verses": [
+        {
+          "id": 1,
+          "japanese": "描いた地図は引き裂いた",
+          "romaji": "egaita chizu ha hikisaita",
+          "translation": "描绘的地图被撕碎了",
+          "wordAnalysis": [
+            {
+              "word": "描いた",
+              "reading": "えがいた",
+              "meaning": "描绘（过去式）",
+              "grammar": "動詞過去形"
+            },
+            {
+              "word": "地図",
+              "reading": "ちず",
+              "meaning": "地图",
+              "grammar": "名詞"
+            },
+            {
+              "word": "は",
+              "reading": "は",
+              "meaning": "主题助词",
+              "grammar": "助詞"
+            },
+            {
+              "word": "引き裂いた",
+              "reading": "ひきさいた",
+              "meaning": "撕开、撕裂（过去式）",
+              "grammar": "動詞過去形"
+            }
+          ],
+          "grammarNotes": "「〜た」是动词的过去式。「は」表示主题。",
+          "emotion": "失落",
+          "visualCue": "torn_map"
+        },
+        {
+          "id": 2,
+          "japanese": "世界はあの日のまま",
+          "romaji": "sekai ha ano hi no mama",
+          "translation": "我的世界自此不再转动",
+          "wordAnalysis": [
+            {
+              "word": "世界",
+              "reading": "せかい",
+              "meaning": "世界",
+              "grammar": "名詞"
+            },
+            {
+              "word": "は",
+              "reading": "は",
+              "meaning": "主题助词",
+              "grammar": "助詞"
+            },
+            {
+              "word": "あの日",
+              "reading": "あのひ",
+              "meaning": "那一天",
+              "grammar": "名詞"
+            },
+            {
+              "word": "の",
+              "reading": "の",
+              "meaning": "的",
+              "grammar": "助詞"
+            },
+            {
+              "word": "まま",
+              "reading": "まま",
+              "meaning": "保持原状，仍旧",
+              "grammar": "名詞"
+            }
+          ],
+          "grammarNotes": "「〜のまま」表示保持那时的状态不变。",
+          "emotion": "停滞",
+          "visualCue": "frozen_world"
+        },
+        {
+          "id": 3,
+          "japanese": "僕はまた 誰かのせいにした",
+          "romaji": "boku ha mata dareka no sei ni shita",
+          "translation": "至今仍在怨天尤人的我",
+          "wordAnalysis": [
+            {
+              "word": "僕",
+              "reading": "ぼく",
+              "meaning": "我（男生常用）",
+              "grammar": "代名詞"
+            },
+            {
+              "word": "は",
+              "reading": "は",
+              "meaning": "主题助词",
+              "grammar": "助詞"
+            },
+            {
+              "word": "また",
+              "reading": "また",
+              "meaning": "又，再",
+              "grammar": "副詞"
+            },
+            {
+              "word": "誰か",
+              "reading": "だれか",
+              "meaning": "谁（某人）",
+              "grammar": "代名詞"
+            },
+            {
+              "word": "の",
+              "reading": "の",
+              "meaning": "的",
+              "grammar": "助詞"
+            },
+            {
+              "word": "せい",
+              "reading": "せい",
+              "meaning": "过错、责任",
+              "grammar": "名詞"
+            },
+            {
+              "word": "に",
+              "reading": "に",
+              "meaning": "归于",
+              "grammar": "助詞"
+            },
+            {
+              "word": "した",
+              "reading": "した",
+              "meaning": "做（过去式）",
+              "grammar": "動詞過去形"
+            }
+          ],
+          "grammarNotes": "「〜のせいにする」= 怪罪、归咎于某人。",
+          "emotion": "自责",
+          "visualCue": "blame_gesture"
+        },
+        {
+          "id": 4,
+          "japanese": "嫌になっちゃうな",
+          "romaji": "iya ni nacchau na",
+          "translation": "真叫人讨厌呐",
+          "wordAnalysis": [
+            {
+              "word": "嫌",
+              "reading": "いや",
+              "meaning": "讨厌",
+              "grammar": "形容動詞"
+            },
+            {
+              "word": "に",
+              "reading": "に",
+              "meaning": "变为某种状态",
+              "grammar": "助詞"
+            },
+            {
+              "word": "なっちゃう",
+              "reading": "なっちゃう",
+              "meaning": "变成（口语缩写）",
+              "grammar": "動詞"
+            },
+            {
+              "word": "な",
+              "reading": "な",
+              "meaning": "感叹语气",
+              "grammar": "助詞"
+            }
+          ],
+          "grammarNotes": "「〜ちゃう」是「〜てしまう」的省略，说话轻松、口语。",
+          "emotion": "厌烦",
+          "visualCue": "frustration"
+        }
+      ]
+    },
+    {
+      "section": "副歌部分",
+      "type": "chorus",
+      "verses": [
+        {
+          "id": 5,
+          "japanese": "このまま",
+          "romaji": "kono mama",
+          "translation": "就这样",
+          "wordAnalysis": [
+            {
+              "word": "この",
+              "reading": "この",
+              "meaning": "这",
+              "grammar": "連体詞"
+            },
+            {
+              "word": "まま",
+              "reading": "まま",
+              "meaning": "保持原状",
+              "grammar": "名詞"
+            }
+          ],
+          "grammarNotes": "",
+          "emotion": "迷茫",
+          "visualCue": "static_state"
+        },
+        {
+          "id": 6,
+          "japanese": "何かを待ち続ける フリするの",
+          "romaji": "nanika wo machitsuzukeru furi suru no",
+          "translation": "一直假装在等待着什么吗？",
+          "wordAnalysis": [
+            {
+              "word": "何か",
+              "reading": "なにか",
+              "meaning": "什么东西",
+              "grammar": "代名詞"
+            },
+            {
+              "word": "を",
+              "reading": "を",
+              "meaning": "宾语助词",
+              "grammar": "助詞"
+            },
+            {
+              "word": "待ち続ける",
+              "reading": "まちつづける",
+              "meaning": "一直等待",
+              "grammar": "動詞"
+            },
+            {
+              "word": "フリする",
+              "reading": "フリする",
+              "meaning": "装作…的样子",
+              "grammar": "動詞"
+            },
+            {
+              "word": "の",
+              "reading": "の",
+              "meaning": "句尾表疑问或强调",
+              "grammar": "助詞"
+            }
+          ],
+          "grammarNotes": "「〜フリをする」= 假装做某事；「〜続ける」= 持续做某事",
+          "emotion": "自欺",
+          "visualCue": "waiting_pose"
+        },
+        {
+          "id": 7,
+          "japanese": "ここから僕はやりなおせますか",
+          "romaji": "koko kara boku ha yarinaosemasu ka",
+          "translation": "是否应该从现在重新开始呢？",
+          "wordAnalysis": [
+            {
+              "word": "ここ",
+              "reading": "ここ",
+              "meaning": "这里",
+              "grammar": "代名詞"
+            },
+            {
+              "word": "から",
+              "reading": "から",
+              "meaning": "从…开始",
+              "grammar": "助詞"
+            },
+            {
+              "word": "僕",
+              "reading": "ぼく",
+              "meaning": "我",
+              "grammar": "代名詞"
+            },
+            {
+              "word": "は",
+              "reading": "は",
+              "meaning": "主题助词",
+              "grammar": "助詞"
+            },
+            {
+              "word": "やりなおせます",
+              "reading": "やりなおせます",
+              "meaning": "重新做（礼貌形）",
+              "grammar": "動詞可能形"
+            },
+            {
+              "word": "か",
+              "reading": "か",
+              "meaning": "疑问助词",
+              "grammar": "助詞"
+            }
+          ],
+          "grammarNotes": "「やりなおす」重新做 + 「ます」礼貌形",
+          "emotion": "希望",
+          "visualCue": "new_beginning"
+        },
+        {
+          "id": 8,
+          "japanese": "どこまでも行ける気がした",
+          "romaji": "dokomademo ikeru ki ga shita",
+          "translation": "曾经一往无前的",
+          "wordAnalysis": [
+            {
+              "word": "どこまでも",
+              "reading": "どこまでも",
+              "meaning": "无论多远，任何地方",
+              "grammar": "副詞"
+            },
+            {
+              "word": "行ける",
+              "reading": "いける",
+              "meaning": "能去",
+              "grammar": "動詞可能形"
+            },
+            {
+              "word": "気",
+              "reading": "き",
+              "meaning": "感觉",
+              "grammar": "名詞"
+            },
+            {
+              "word": "が",
+              "reading": "が",
+              "meaning": "主语助词",
+              "grammar": "助詞"
+            },
+            {
+              "word": "した",
+              "reading": "した",
+              "meaning": "过去式",
+              "grammar": "動詞過去形"
+            }
+          ],
+          "grammarNotes": "「行く」的可能态，表示能力",
+          "emotion": "怀念",
+          "visualCue": "endless_path"
+        },
+        {
+          "id": 9,
+          "japanese": "あの時の僕はどこだ",
+          "romaji": "ano toki no boku ha doko da",
+          "translation": "那时的我去了哪里？",
+          "wordAnalysis": [
+            {
+              "word": "あの時",
+              "reading": "あのとき",
+              "meaning": "那时",
+              "grammar": "名詞"
+            },
+            {
+              "word": "の",
+              "reading": "の",
+              "meaning": "表修饰",
+              "grammar": "助詞"
+            },
+            {
+              "word": "僕",
+              "reading": "ぼく",
+              "meaning": "我",
+              "grammar": "代名詞"
+            },
+            {
+              "word": "は",
+              "reading": "は",
+              "meaning": "主题助词",
+              "grammar": "助詞"
+            },
+            {
+              "word": "どこ",
+              "reading": "どこ",
+              "meaning": "哪里",
+              "grammar": "疑問詞"
+            },
+            {
+              "word": "だ",
+              "reading": "だ",
+              "meaning": "判断句尾",
+              "grammar": "助動詞"
+            }
+          ],
+          "grammarNotes": "疑问句，寻找过去的自己",
+          "emotion": "困惑",
+          "visualCue": "searching"
+        },
+        {
+          "id": 10,
+          "japanese": "きっと「大人になった」とか",
+          "romaji": "kitto 'otona ni natta' toka",
+          "translation": "一定不会是「变成大人了」这种回答吧",
+          "wordAnalysis": [
+            {
+              "word": "きっと",
+              "reading": "きっと",
+              "meaning": "一定",
+              "grammar": "副詞"
+            },
+            {
+              "word": "大人",
+              "reading": "おとな",
+              "meaning": "大人",
+              "grammar": "名詞"
+            },
+            {
+              "word": "に",
+              "reading": "に",
+              "meaning": "表变化，变成",
+              "grammar": "助詞"
+            },
+            {
+              "word": "なった",
+              "reading": "なった",
+              "meaning": "变成（过去式）",
+              "grammar": "動詞過去形"
+            },
+            {
+              "word": "とか",
+              "reading": "とか",
+              "meaning": "之类、比如",
+              "grammar": "助詞"
+            }
+          ],
+          "grammarNotes": "「とか」表示举例或轻视",
+          "emotion": "否定",
+          "visualCue": "rejection"
+        },
+        {
+          "id": 11,
+          "japanese": "そういうことじゃなくてさ",
+          "romaji": "sou iu koto ja nakute sa",
+          "translation": "才不是那样呢",
+          "wordAnalysis": [
+            {
+              "word": "そういう",
+              "reading": "そういう",
+              "meaning": "那样的、那种",
+              "grammar": "連体詞"
+            },
+            {
+              "word": "こと",
+              "reading": "こと",
+              "meaning": "事情",
+              "grammar": "名詞"
+            },
+            {
+              "word": "じゃなくて",
+              "reading": "じゃなくて",
+              "meaning": "并不是",
+              "grammar": "助動詞"
+            },
+            {
+              "word": "さ",
+              "reading": "さ",
+              "meaning": "语气词，强调、感叹",
+              "grammar": "助詞"
+            }
+          ],
+          "grammarNotes": "「〜じゃなくて」= 并不是…（口语说法）",
+          "emotion": "反驳",
+          "visualCue": "denial"
+        },
+        {
+          "id": 12,
+          "japanese": "あと少しだけの勇気で",
+          "romaji": "ato sukoshi dake no yuuki de",
+          "translation": "只要再多一点点勇气",
+          "wordAnalysis": [
+            {
+              "word": "あと",
+              "reading": "あと",
+              "meaning": "还差、再…",
+              "grammar": "副詞"
+            },
+            {
+              "word": "少し",
+              "reading": "すこし",
+              "meaning": "一点点",
+              "grammar": "副詞"
+            },
+            {
+              "word": "だけ",
+              "reading": "だけ",
+              "meaning": "仅仅",
+              "grammar": "助詞"
+            },
+            {
+              "word": "の",
+              "reading": "の",
+              "meaning": "修饰后面的名词",
+              "grammar": "助詞"
+            },
+            {
+              "word": "勇気",
+              "reading": "ゆうき",
+              "meaning": "勇气",
+              "grammar": "名詞"
+            },
+            {
+              "word": "で",
+              "reading": "で",
+              "meaning": "表示手段或原因：「凭着…」",
+              "grammar": "助詞"
+            }
+          ],
+          "grammarNotes": "「で」表示手段或条件",
+          "emotion": "渴望",
+          "visualCue": "small_flame"
+        },
+        {
+          "id": 13,
+          "japanese": "変えられた明日はあった",
+          "romaji": "kae rare ta ashita ha atta",
+          "translation": "就能拥有不一样的明天",
+          "wordAnalysis": [
+            {
+              "word": "変えられた",
+              "reading": "かえられた",
+              "meaning": "可以被改变/被改变了",
+              "grammar": "動詞可能態被動態"
+            },
+            {
+              "word": "明日",
+              "reading": "あした",
+              "meaning": "明天",
+              "grammar": "名詞"
+            },
+            {
+              "word": "は",
+              "reading": "は",
+              "meaning": "主题助词",
+              "grammar": "助詞"
+            },
+            {
+              "word": "あった",
+              "reading": "あった",
+              "meaning": "有、存在（过去式）",
+              "grammar": "動詞過去形"
+            }
+          ],
+          "grammarNotes": "「〜られる」是可能态或被动态：这里是「能改变的」含义",
+          "emotion": "可能性",
+          "visualCue": "bright_future"
+        },
+        {
+          "id": 14,
+          "japanese": "それさえ気づけなかったんだ",
+          "romaji": "sore sae kizukenakatta n da",
+          "translation": "连这一点都未曾注意到",
+          "wordAnalysis": [
+            {
+              "word": "それ",
+              "reading": "それ",
+              "meaning": "那件事",
+              "grammar": "代名詞"
+            },
+            {
+              "word": "さえ",
+              "reading": "さえ",
+              "meaning": "连…都…",
+              "grammar": "助詞"
+            },
+            {
+              "word": "気づけなかった",
+              "reading": "きづけなかった",
+              "meaning": "没有察觉到",
+              "grammar": "動詞可能態否定過去形"
+            },
+            {
+              "word": "んだ",
+              "reading": "んだ",
+              "meaning": "说明语气",
+              "grammar": "助動詞"
+            }
+          ],
+          "grammarNotes": "「〜さえ」= 连…；「〜なかった」= 没有…（过去否定）",
+          "emotion": "后悔",
+          "visualCue": "missed_opportunity"
+        },
+        {
+          "id": 15,
+          "japanese": "そんな瞬間は何度あったんだろう",
+          "romaji": "sonna shunkan ha nando atta n darou",
+          "translation": "这样的瞬间，到底有多少次了吧",
+          "wordAnalysis": [
+            {
+              "word": "そんな",
+              "reading": "そんな",
+              "meaning": "那样的",
+              "grammar": "連体詞"
+            },
+            {
+              "word": "瞬間",
+              "reading": "しゅんかん",
+              "meaning": "瞬间",
+              "grammar": "名詞"
+            },
+            {
+              "word": "は",
+              "reading": "は",
+              "meaning": "主题助词",
+              "grammar": "助詞"
+            },
+            {
+              "word": "何度",
+              "reading": "なんど",
+              "meaning": "多少次",
+              "grammar": "副詞"
+            },
+            {
+              "word": "あった",
+              "reading": "あった",
+              "meaning": "有过",
+              "grammar": "動詞過去形"
+            },
+            {
+              "word": "んだろう",
+              "reading": "んだろう",
+              "meaning": "表推测、感叹：「…吧」",
+              "grammar": "助動詞"
+            }
+          ],
+          "grammarNotes": "「んだろう」表示推测和感叹",
+          "emotion": "反思",
+          "visualCue": "counting_moments"
+        }
+      ]
+    },
+    {
+      "section": "桥段部分",
+      "type": "bridge",
+      "verses": [
+        {
+          "id": 16,
+          "japanese": "結んだ糸は解いた",
+          "romaji": "musunda ito ha hodoita",
+          "translation": "牵绊的丝线散开了",
+          "wordAnalysis": [
+            {
+              "word": "結んだ",
+              "reading": "むすんだ",
+              "meaning": "系上、连接（过去式）",
+              "grammar": "動詞過去形"
+            },
+            {
+              "word": "糸",
+              "reading": "いと",
+              "meaning": "线",
+              "grammar": "名詞"
+            },
+            {
+              "word": "は",
+              "reading": "は",
+              "meaning": "主题助词",
+              "grammar": "助詞"
+            },
+            {
+              "word": "解いた",
+              "reading": "ほどいた",
+              "meaning": "解开（过去式）",
+              "grammar": "動詞過去形"
+            }
+          ],
+          "grammarNotes": "对比结构：结んだ vs 解いた",
+          "emotion": "断裂",
+          "visualCue": "broken_thread"
+        },
+        {
+          "id": 17,
+          "japanese": "世界はあの日のまま",
+          "romaji": "sekai ha ano hi no mama",
+          "translation": "我的世界自此不再转动",
+          "wordAnalysis": [
+            {
+              "word": "世界",
+              "reading": "せかい",
+              "meaning": "世界",
+              "grammar": "名詞"
+            },
+            {
+              "word": "は",
+              "reading": "は",
+              "meaning": "主题助词",
+              "grammar": "助詞"
+            },
+            {
+              "word": "あの日",
+              "reading": "あのひ",
+              "meaning": "那一天",
+              "grammar": "名詞"
+            },
+            {
+              "word": "の",
+              "reading": "の",
+              "meaning": "的",
+              "grammar": "助詞"
+            },
+            {
+              "word": "まま",
+              "reading": "まま",
+              "meaning": "保持原状，仍旧",
+              "grammar": "名詞"
+            }
+          ],
+          "grammarNotes": "「〜のまま」表示保持那时的状态不变。",
+          "emotion": "停滞",
+          "visualCue": "frozen_world"
+        },
+        {
+          "id": 18,
+          "japanese": "僕はまた 繰り返してばかり",
+          "romaji": "boku ha mata kurikaeshite bakari",
+          "translation": "再次陷入过去里的我",
+          "wordAnalysis": [
+            {
+              "word": "僕",
+              "reading": "ぼく",
+              "meaning": "我",
+              "grammar": "代名詞"
+            },
+            {
+              "word": "は",
+              "reading": "は",
+              "meaning": "主题助词",
+              "grammar": "助詞"
+            },
+            {
+              "word": "また",
+              "reading": "また",
+              "meaning": "又",
+              "grammar": "副詞"
+            },
+            {
+              "word": "繰り返して",
+              "reading": "くりかえして",
+              "meaning": "重复",
+              "grammar": "動詞連用形"
+            },
+            {
+              "word": "ばかり",
+              "reading": "ばかり",
+              "meaning": "只是，一直",
+              "grammar": "助詞"
+            }
+          ],
+          "grammarNotes": "「〜てばかり」= 总是一直…",
+          "emotion": "循环",
+          "visualCue": "endless_loop"
+        },
+        {
+          "id": 19,
+          "japanese": "嫌になっちゃうな",
+          "romaji": "iya ni nacchau na",
+          "translation": "真叫人讨厌呐",
+          "wordAnalysis": [
+            {
+              "word": "嫌",
+              "reading": "いや",
+              "meaning": "讨厌",
+              "grammar": "形容動詞"
+            },
+            {
+              "word": "に",
+              "reading": "に",
+              "meaning": "变为某种状态",
+              "grammar": "助詞"
+            },
+            {
+              "word": "なっちゃう",
+              "reading": "なっちゃう",
+              "meaning": "变成（口语缩写）",
+              "grammar": "動詞"
+            },
+            {
+              "word": "な",
+              "reading": "な",
+              "meaning": "感叹语气",
+              "grammar": "助詞"
+            }
+          ],
+          "grammarNotes": "「〜ちゃう」是「〜てしまう」的省略，说话轻松、口语。",
+          "emotion": "厌烦",
+          "visualCue": "frustration"
+        },
+        {
+          "id": 20,
+          "japanese": "身勝手な夢を抱いて 自ら砕いて",
+          "romaji": "migatte na yume wo daite mizukara kudaite",
+          "translation": "抱着自私的梦想自我毁灭",
+          "wordAnalysis": [
+            {
+              "word": "身勝手",
+              "reading": "みがって",
+              "meaning": "任性、自私",
+              "grammar": "形容動詞"
+            },
+            {
+              "word": "な",
+              "reading": "な",
+              "meaning": "形容动词词干+「な」修饰名词",
+              "grammar": "助詞"
+            },
+            {
+              "word": "夢",
+              "reading": "ゆめ",
+              "meaning": "梦想",
+              "grammar": "名詞"
+            },
+            {
+              "word": "を",
+              "reading": "を",
+              "meaning": "宾语助词",
+              "grammar": "助詞"
+            },
+            {
+              "word": "抱いて",
+              "reading": "だいて",
+              "meaning": "怀抱",
+              "grammar": "動詞連用形"
+            },
+            {
+              "word": "自ら",
+              "reading": "みずから",
+              "meaning": "自己亲自",
+              "grammar": "副詞"
+            },
+            {
+              "word": "砕いて",
+              "reading": "くだいて",
+              "meaning": "打碎",
+              "grammar": "動詞連用形"
+            }
+          ],
+          "grammarNotes": "连续动作：抱いて → 砕いて",
+          "emotion": "自毁",
+          "visualCue": "shattered_dream"
+        },
+        {
+          "id": 21,
+          "japanese": "何がしたいの",
+          "romaji": "nani ga shitai no",
+          "translation": "你究竟想做什么？",
+          "wordAnalysis": [
+            {
+              "word": "何",
+              "reading": "なに",
+              "meaning": "什么",
+              "grammar": "疑問詞"
+            },
+            {
+              "word": "が",
+              "reading": "が",
+              "meaning": "主语助词",
+              "grammar": "助詞"
+            },
+            {
+              "word": "したい",
+              "reading": "したい",
+              "meaning": "想做",
+              "grammar": "動詞希望形"
+            },
+            {
+              "word": "の",
+              "reading": "の",
+              "meaning": "语尾疑问/强调",
+              "grammar": "助詞"
+            }
+          ],
+          "grammarNotes": "「したい」=「する」+「たい」（想做）",
+          "emotion": "质疑",
+          "visualCue": "questioning"
+        }
+      ]
+    },
+    {
+      "section": "高潮部分",
+      "type": "climax",
+      "verses": [
+        {
+          "id": 22,
+          "japanese": "いつか この闇を 切り裂いてくれないか Oh My Life",
+          "romaji": "itsuka kono yami wo kirisaite kurenai ka Oh My Life",
+          "translation": "终有一天，你会为我劈开这黑暗吗 Oh My Life",
+          "wordAnalysis": [
+            {
+              "word": "いつか",
+              "reading": "いつか",
+              "meaning": "总有一天、迟早",
+              "grammar": "副詞"
+            },
+            {
+              "word": "この",
+              "reading": "この",
+              "meaning": "这",
+              "grammar": "連体詞"
+            },
+            {
+              "word": "闇",
+              "reading": "やみ",
+              "meaning": "黑暗",
+              "grammar": "名詞"
+            },
+            {
+              "word": "を",
+              "reading": "を",
+              "meaning": "宾语助词",
+              "grammar": "助詞"
+            },
+            {
+              "word": "切り裂いて",
+              "reading": "きりさいて",
+              "meaning": "劈开、割裂",
+              "grammar": "動詞連用形"
+            },
+            {
+              "word": "くれないか",
+              "reading": "くれないか",
+              "meaning": "能不能帮我做…？",
+              "grammar": "動詞否定疑問形"
+            }
+          ],
+          "grammarNotes": "「〜てくれる」= 替我做某事，带有帮忙、恩惠的感觉；「〜ないか」= 表疑问，带请求语气",
+          "emotion": "祈求",
+          "visualCue": "breaking_darkness"
+        },
+        {
+          "id": 23,
+          "japanese": "僕たちの正義はきっと",
+          "romaji": "bokutachi no seigi ha kitto",
+          "translation": "我们的正义一定",
+          "wordAnalysis": [
+            {
+              "word": "僕たち",
+              "reading": "ぼくたち",
+              "meaning": "我们",
+              "grammar": "代名詞"
+            },
+            {
+              "word": "の",
+              "reading": "の",
+              "meaning": "修饰后面名词",
+              "grammar": "助詞"
+            },
+            {
+              "word": "正義",
+              "reading": "せいぎ",
+              "meaning": "正义",
+              "grammar": "名詞"
+            },
+            {
+              "word": "は",
+              "reading": "は",
+              "meaning": "主题助词",
+              "grammar": "助詞"
+            },
+            {
+              "word": "きっと",
+              "reading": "きっと",
+              "meaning": "一定",
+              "grammar": "副詞"
+            }
+          ],
+          "grammarNotes": "未完成句子，为下一句做铺垫",
+          "emotion": "坚定",
+          "visualCue": "justice_symbol"
+        },
+        {
+          "id": 24,
+          "japanese": "誰かには邪魔なものさ",
+          "romaji": "dareka ni ha jama na mono sa",
+          "translation": "对某些人来说，一定是很碍事的东西",
+          "wordAnalysis": [
+            {
+              "word": "誰か",
+              "reading": "だれか",
+              "meaning": "某人",
+              "grammar": "代名詞"
+            },
+            {
+              "word": "に",
+              "reading": "に",
+              "meaning": "对于…",
+              "grammar": "助詞"
+            },
+            {
+              "word": "は",
+              "reading": "は",
+              "meaning": "主题助词",
+              "grammar": "助詞"
+            },
+            {
+              "word": "邪魔",
+              "reading": "じゃま",
+              "meaning": "妨碍、碍事",
+              "grammar": "形容動詞"
+            },
+            {
+              "word": "な",
+              "reading": "な",
+              "meaning": "形容动词词干 + 「な」修饰名词",
+              "grammar": "助詞"
+            },
+            {
+              "word": "もの",
+              "reading": "もの",
+              "meaning": "东西、事物",
+              "grammar": "名詞"
+            },
+            {
+              "word": "さ",
+              "reading": "さ",
+              "meaning": "语气词，加强语气",
+              "grammar": "助詞"
+            }
+          ],
+          "grammarNotes": "「にとって」的简化表达，表示立场观点",
+          "emotion": "现实",
+          "visualCue": "obstacle"
+        },
+        {
+          "id": 25,
+          "japanese": "きっと「大人になった」とか",
+          "romaji": "kitto 'otona ni natta' toka",
+          "translation": "一定不会是「变成大人了」这种回答吧",
+          "wordAnalysis": [
+            {
+              "word": "きっと",
+              "reading": "きっと",
+              "meaning": "一定",
+              "grammar": "副詞"
+            },
+            {
+              "word": "大人",
+              "reading": "おとな",
+              "meaning": "大人",
+              "grammar": "名詞"
+            },
+            {
+              "word": "に",
+              "reading": "に",
+              "meaning": "表变化，变成",
+              "grammar": "助詞"
+            },
+            {
+              "word": "なった",
+              "reading": "なった",
+              "meaning": "变成（过去式）",
+              "grammar": "動詞過去形"
+            },
+            {
+              "word": "とか",
+              "reading": "とか",
+              "meaning": "之类、比如",
+              "grammar": "助詞"
+            }
+          ],
+          "grammarNotes": "「とか」表示举例或轻视",
+          "emotion": "否定",
+          "visualCue": "rejection"
+        },
+        {
+          "id": 26,
+          "japanese": "そういうことじゃなくてさ",
+          "romaji": "sou iu koto ja nakute sa",
+          "translation": "才不是那样呢",
+          "wordAnalysis": [
+            {
+              "word": "そういう",
+              "reading": "そういう",
+              "meaning": "那样的、那种",
+              "grammar": "連体詞"
+            },
+            {
+              "word": "こと",
+              "reading": "こと",
+              "meaning": "事情",
+              "grammar": "名詞"
+            },
+            {
+              "word": "じゃなくて",
+              "reading": "じゃなくて",
+              "meaning": "并不是",
+              "grammar": "助動詞"
+            },
+            {
+              "word": "さ",
+              "reading": "さ",
+              "meaning": "语气词，强调、感叹",
+              "grammar": "助詞"
+            }
+          ],
+          "grammarNotes": "「〜じゃなくて」= 并不是…（口语说法）",
+          "emotion": "反驳",
+          "visualCue": "denial"
+        },
+        {
+          "id": 27,
+          "japanese": "あと少し強くなれば",
+          "romaji": "ato sukoshi tsuyoku nareba",
+          "translation": "如果再变强一点的话",
+          "wordAnalysis": [
+            {
+              "word": "あと",
+              "reading": "あと",
+              "meaning": "再、还差…",
+              "grammar": "副詞"
+            },
+            {
+              "word": "少し",
+              "reading": "すこし",
+              "meaning": "一点",
+              "grammar": "副詞"
+            },
+            {
+              "word": "強く",
+              "reading": "つよく",
+              "meaning": "变得更强",
+              "grammar": "形容詞副詞形"
+            },
+            {
+              "word": "なれば",
+              "reading": "なれば",
+              "meaning": "如果…就…",
+              "grammar": "動詞假定形"
+            }
+          ],
+          "grammarNotes": "「〜ば」= 如果…就…",
+          "emotion": "条件",
+          "visualCue": "growing_strength"
+        },
+        {
+          "id": 28,
+          "japanese": "守られる明日があって",
+          "romaji": "mamorareru ashita ga atte",
+          "translation": "就能守护明天",
+          "wordAnalysis": [
+            {
+              "word": "守られる",
+              "reading": "まもられる",
+              "meaning": "能被守护/能守护",
+              "grammar": "動詞可能態被動態"
+            },
+            {
+              "word": "明日",
+              "reading": "あした",
+              "meaning": "明天",
+              "grammar": "名詞"
+            },
+            {
+              "word": "が",
+              "reading": "が",
+              "meaning": "主语助词",
+              "grammar": "助詞"
+            },
+            {
+              "word": "あって",
+              "reading": "あって",
+              "meaning": "存在",
+              "grammar": "動詞連用形"
+            }
+          ],
+          "grammarNotes": "「守る」的被动或可能态",
+          "emotion": "保护",
+          "visualCue": "protective_shield"
+        }
+      ]
+    },
+    {
+      "section": "结尾部分",
+      "type": "outro",
+      "verses": [
+        {
+          "id": 29,
+          "japanese": "全て変わった夜も",
+          "romaji": "subete kawatta yoru mo",
+          "translation": "即使是一切都改变的夜晚",
+          "wordAnalysis": [
+            {
+              "word": "全て",
+              "reading": "すべて",
+              "meaning": "一切、全部",
+              "grammar": "副詞"
+            },
+            {
+              "word": "変わった",
+              "reading": "かわった",
+              "meaning": "变化（过去式）",
+              "grammar": "動詞過去形"
+            },
+            {
+              "word": "夜",
+              "reading": "よる",
+              "meaning": "夜晚",
+              "grammar": "名詞"
+            },
+            {
+              "word": "も",
+              "reading": "も",
+              "meaning": "也",
+              "grammar": "助詞"
+            }
+          ],
+          "grammarNotes": "「も」表示包含、也",
+          "emotion": "接受",
+          "visualCue": "changing_night"
+        },
+        {
+          "id": 30,
+          "japanese": "まだここからと笑えたらなー",
+          "romaji": "mada koko kara to waraetara naa",
+          "translation": "还能从这里笑着重新开始就好了啊",
+          "wordAnalysis": [
+            {
+              "word": "まだ",
+              "reading": "まだ",
+              "meaning": "还",
+              "grammar": "副詞"
+            },
+            {
+              "word": "ここから",
+              "reading": "ここから",
+              "meaning": "从这里开始",
+              "grammar": "副詞句"
+            },
+            {
+              "word": "と",
+              "reading": "と",
+              "meaning": "引用或想法的提示词",
+              "grammar": "助詞"
+            },
+            {
+              "word": "笑えたら",
+              "reading": "わらえたら",
+              "meaning": "如果能笑的话",
+              "grammar": "動詞假定形"
+            },
+            {
+              "word": "なー",
+              "reading": "なー",
+              "meaning": "感叹语气，带点希望或叹息",
+              "grammar": "助詞"
+            }
+          ],
+          "grammarNotes": "「〜たら」假定形表示希望",
+          "emotion": "希冀",
+          "visualCue": "hopeful_smile"
+        },
+        {
+          "id": 31,
+          "japanese": "捻くれた感情",
+          "romaji": "hinekureta kanjou",
+          "translation": "这份扭曲的感情",
+          "wordAnalysis": [
+            {
+              "word": "捻くれた",
+              "reading": "ねじくれた",
+              "meaning": "扭曲的、别扭的",
+              "grammar": "動詞過去形"
+            },
+            {
+              "word": "感情",
+              "reading": "かんじょう",
+              "meaning": "感情",
+              "grammar": "名詞"
+            }
+          ],
+          "grammarNotes": "「捻くれる」的过去式，表示扭曲的状态",
+          "emotion": "扭曲",
+          "visualCue": "twisted_emotion"
+        },
+        {
+          "id": 32,
+          "japanese": "出てこないでね",
+          "romaji": "dete konaide ne",
+          "translation": "请不要跑出来呢",
+          "wordAnalysis": [
+            {
+              "word": "出て",
+              "reading": "でて",
+              "meaning": "出来",
+              "grammar": "動詞連用形"
+            },
+            {
+              "word": "こないで",
+              "reading": "こないで",
+              "meaning": "不要过来/不要出来",
+              "grammar": "動詞否定形"
+            },
+            {
+              "word": "ね",
+              "reading": "ね",
+              "meaning": "语气词，软化语气",
+              "grammar": "助詞"
+            }
+          ],
+          "grammarNotes": "「〜ないで」表示否定请求，「ね」软化语气",
+          "emotion": "恳求",
+          "visualCue": "gentle_refusal"
+        },
+        {
+          "id": 33,
+          "japanese": "きっと変われたんだ もう",
+          "romaji": "kitto kawareta n da mou",
+          "translation": "一定已经有所改变了吧",
+          "wordAnalysis": [
+            {
+              "word": "きっと",
+              "reading": "きっと",
+              "meaning": "一定",
+              "grammar": "副詞"
+            },
+            {
+              "word": "変われた",
+              "reading": "かわれた",
+              "meaning": "已经能够改变",
+              "grammar": "動詞可能態過去形"
+            },
+            {
+              "word": "んだ",
+              "reading": "んだ",
+              "meaning": "说明语气",
+              "grammar": "助動詞"
+            },
+            {
+              "word": "もう",
+              "reading": "もう",
+              "meaning": "已经",
+              "grammar": "副詞"
+            }
+          ],
+          "grammarNotes": "「変われる」可能态表示能力，「んだ」表说明语气",
+          "emotion": "确信",
+          "visualCue": "transformation"
+        },
+        {
+          "id": 34,
+          "japanese": "君にサヨナラ",
+          "romaji": "kimi ni sayonara",
+          "translation": "也该和你说再见了",
+          "wordAnalysis": [
+            {
+              "word": "君",
+              "reading": "きみ",
+              "meaning": "你",
+              "grammar": "代名詞"
+            },
+            {
+              "word": "に",
+              "reading": "に",
+              "meaning": "对…",
+              "grammar": "助詞"
+            },
+            {
+              "word": "サヨナラ",
+              "reading": "サヨナラ",
+              "meaning": "再见",
+              "grammar": "感動詞"
+            }
+          ],
+          "grammarNotes": "告别的表达",
+          "emotion": "告别",
+          "visualCue": "farewell"
+        },
+        {
+          "id": 35,
+          "japanese": "僕は君にとって",
+          "romaji": "boku ha kimi ni totte",
+          "translation": "我想要成为对你来说…",
+          "wordAnalysis": [
+            {
+              "word": "僕",
+              "reading": "ぼく",
+              "meaning": "我",
+              "grammar": "代名詞"
+            },
+            {
+              "word": "は",
+              "reading": "は",
+              "meaning": "主题助词",
+              "grammar": "助詞"
+            },
+            {
+              "word": "君",
+              "reading": "きみ",
+              "meaning": "你",
+              "grammar": "代名詞"
+            },
+            {
+              "word": "にとって",
+              "reading": "にとって",
+              "meaning": "对于…来说",
+              "grammar": "助詞"
+            }
+          ],
+          "grammarNotes": "「〜にとって」= 对…来说，表示立场或观点。",
+          "emotion": "渴望",
+          "visualCue": "reaching_out"
+        },
+        {
+          "id": 36,
+          "japanese": "誰かにとって",
+          "romaji": "dareka ni totte",
+          "translation": "或者对于某个人来说",
+          "wordAnalysis": [
+            {
+              "word": "誰か",
+              "reading": "だれか",
+              "meaning": "某人",
+              "grammar": "代名詞"
+            },
+            {
+              "word": "にとって",
+              "reading": "にとって",
+              "meaning": "对…来说",
+              "grammar": "助詞"
+            }
+          ],
+          "grammarNotes": "「〜にとって」= 对…来说，表示立场或观点。",
+          "emotion": "思考",
+          "visualCue": "contemplation"
+        },
+        {
+          "id": 37,
+          "japanese": "「明けない夜」の「消えない星」になりたかった",
+          "romaji": "'akenai yoru' no 'kienai hoshi' ni naritakatta",
+          "translation": "我曾想成为「无尽黑夜」的「不灭的星」",
+          "wordAnalysis": [
+            {
+              "word": "明けない",
+              "reading": "あけない",
+              "meaning": "不会破晓的，不会结束的",
+              "grammar": "動詞否定形"
+            },
+            {
+              "word": "夜",
+              "reading": "よる",
+              "meaning": "夜晚",
+              "grammar": "名詞"
+            },
+            {
+              "word": "の",
+              "reading": "の",
+              "meaning": "的",
+              "grammar": "助詞"
+            },
+            {
+              "word": "消えない",
+              "reading": "きえない",
+              "meaning": "不会消失的",
+              "grammar": "動詞否定形"
+            },
+            {
+              "word": "星",
+              "reading": "ほし",
+              "meaning": "星星",
+              "grammar": "名詞"
+            },
+            {
+              "word": "に",
+              "reading": "に",
+              "meaning": "变成、成为…",
+              "grammar": "助詞"
+            },
+            {
+              "word": "なりたかった",
+              "reading": "なりたかった",
+              "meaning": "想成为（过去式）",
+              "grammar": "動詞希望形過去"
+            }
+          ],
+          "grammarNotes": "「なりたい」的过去式，表示过去的愿望",
+          "emotion": "理想",
+          "visualCue": "eternal_star"
+        },
+        {
+          "id": 38,
+          "japanese": "なれなかった",
+          "romaji": "narenakatta",
+          "translation": "却没能成为",
+          "wordAnalysis": [
+            {
+              "word": "なれなかった",
+              "reading": "なれなかった",
+              "meaning": "没能成为",
+              "grammar": "動詞可能態過去否定"
+            }
+          ],
+          "grammarNotes": "「なる」的可能态过去否定：没能成为",
+          "emotion": "遗憾",
+          "visualCue": "failed_dream"
+        },
+        {
+          "id": 39,
+          "japanese": "僕らはこのまま——。",
+          "romaji": "bokura ha kono mama ——.",
+          "translation": "我们就这样——",
+          "wordAnalysis": [
+            {
+              "word": "僕ら",
+              "reading": "ぼくら",
+              "meaning": "我们",
+              "grammar": "代名詞"
+            },
+            {
+              "word": "は",
+              "reading": "は",
+              "meaning": "主题助词",
+              "grammar": "助詞"
+            },
+            {
+              "word": "このまま",
+              "reading": "このまま",
+              "meaning": "就这样、保持现状",
+              "grammar": "副詞"
+            }
+          ],
+          "grammarNotes": "「このまま」表示保持当前状态不变，句末的「——。」表示未完成的思绪或停顿。",
+          "emotion": "悬念",
+          "visualCue": "suspended_moment"
+        },
+        {
+          "id": 40,
+          "japanese": "あと少しだけの勇気で",
+          "romaji": "ato sukoshi dake no yuuki de",
+          "translation": "只要再多一点点勇气",
+          "wordAnalysis": [
+            {
+              "word": "あと",
+              "reading": "あと",
+              "meaning": "还差、再…",
+              "grammar": "副詞"
+            },
+            {
+              "word": "少し",
+              "reading": "すこし",
+              "meaning": "一点点",
+              "grammar": "副詞"
+            },
+            {
+              "word": "だけ",
+              "reading": "だけ",
+              "meaning": "仅仅",
+              "grammar": "助詞"
+            },
+            {
+              "word": "の",
+              "reading": "の",
+              "meaning": "修饰后面的名词",
+              "grammar": "助詞"
+            },
+            {
+              "word": "勇気",
+              "reading": "ゆうき",
+              "meaning": "勇气",
+              "grammar": "名詞"
+            },
+            {
+              "word": "で",
+              "reading": "で",
+              "meaning": "表示手段或原因：「凭着…」",
+              "grammar": "助詞"
+            }
+          ],
+          "grammarNotes": "「で」表示手段或条件",
+          "emotion": "渴望",
+          "visualCue": "small_flame"
+        },
+        {
+          "id": 41,
+          "japanese": "変えられた明日はあった",
+          "romaji": "kae rare ta ashita ha atta",
+          "translation": "就能拥有不一样的明天",
+          "wordAnalysis": [
+            {
+              "word": "変えられた",
+              "reading": "かえられた",
+              "meaning": "可以被改变/被改变了",
+              "grammar": "動詞可能態被動態"
+            },
+            {
+              "word": "明日",
+              "reading": "あした",
+              "meaning": "明天",
+              "grammar": "名詞"
+            },
+            {
+              "word": "は",
+              "reading": "は",
+              "meaning": "主题助词",
+              "grammar": "助詞"
+            },
+            {
+              "word": "あった",
+              "reading": "あった",
+              "meaning": "有、存在（过去式）",
+              "grammar": "動詞過去形"
+            }
+          ],
+          "grammarNotes": "「〜られる」是可能态或被动态：这里是「能改变的」含义",
+          "emotion": "可能性",
+          "visualCue": "bright_future"
+        },
+        {
+          "id": 42,
+          "japanese": "それさえ気づけなかったんだ",
+          "romaji": "sore sae kizukenakatta n da",
+          "translation": "连这一点都未曾注意到",
+          "wordAnalysis": [
+            {
+              "word": "それ",
+              "reading": "それ",
+              "meaning": "那件事",
+              "grammar": "代名詞"
+            },
+            {
+              "word": "さえ",
+              "reading": "さえ",
+              "meaning": "连…都…",
+              "grammar": "助詞"
+            },
+            {
+              "word": "気づけなかった",
+              "reading": "きづけなかった",
+              "meaning": "没有察觉到",
+              "grammar": "動詞可能態否定過去形"
+            },
+            {
+              "word": "んだ",
+              "reading": "んだ",
+              "meaning": "说明语气",
+              "grammar": "助動詞"
+            }
+          ],
+          "grammarNotes": "「〜さえ」= 连…；「〜なかった」= 没有…（过去否定）",
+          "emotion": "后悔",
+          "visualCue": "missed_opportunity"
+        },
+        {
+          "id": 43,
+          "japanese": "そんな日はもうたくさんだ",
+          "romaji": "sonna hi wa mou takusan da",
+          "translation": "那样的日子，我已经受够了",
+          "wordAnalysis": [
+            {
+              "word": "そんな",
+              "reading": "そんな",
+              "meaning": "那样的",
+              "grammar": "連体詞"
+            },
+            {
+              "word": "日",
+              "reading": "ひ",
+              "meaning": "日子",
+              "grammar": "名詞"
+            },
+            {
+              "word": "は",
+              "reading": "は",
+              "meaning": "主题助词",
+              "grammar": "助詞"
+            },
+            {
+              "word": "もう",
+              "reading": "もう",
+              "meaning": "已经",
+              "grammar": "副詞"
+            },
+            {
+              "word": "たくさんだ",
+              "reading": "たくさんだ",
+              "meaning": "受够了、够了",
+              "grammar": "形容動詞"
+            }
+          ],
+          "grammarNotes": "「もう〜だ」= 已经…了；表示厌烦或达到极限",
+          "emotion": "厌倦",
+          "visualCue": "exhaustion"
+        },
+        {
+          "id": 44,
+          "japanese": "「いつまでも」なんてないんだ",
+          "romaji": "itsu made mo nan te nai n da",
+          "translation": "根本不存在什么「永远」",
+          "wordAnalysis": [
+            {
+              "word": "いつまでも",
+              "reading": "いつまでも",
+              "meaning": "永远",
+              "grammar": "副詞"
+            },
+            {
+              "word": "なんて",
+              "reading": "なんて",
+              "meaning": "什么…啊",
+              "grammar": "助詞"
+            },
+            {
+              "word": "ないんだ",
+              "reading": "ないんだ",
+              "meaning": "不存在",
+              "grammar": "形容詞否定形+助動詞"
+            }
+          ],
+          "grammarNotes": "「〜なんて」= 表示轻视、感叹或强调；「ないんだ」= 说明语气的否定",
+          "emotion": "幻灭",
+          "visualCue": "reality_check"
+        },
+        {
+          "id": 45,
+          "japanese": "終わり行く その前に",
+          "romaji": "owari iku sono mae ni",
+          "translation": "在一切无可挽回之前",
+          "wordAnalysis": [
+            {
+              "word": "終わり行く",
+              "reading": "おわりいく",
+              "meaning": "逐渐走向结束",
+              "grammar": "動詞連体形"
+            },
+            {
+              "word": "その",
+              "reading": "その",
+              "meaning": "那个",
+              "grammar": "連体詞"
+            },
+            {
+              "word": "前に",
+              "reading": "まえに",
+              "meaning": "在…之前",
+              "grammar": "名詞+助詞"
+            }
+          ],
+          "grammarNotes": "「〜行く」= 表示动作的进行；「〜前に」= 在…之前",
+          "emotion": "紧迫",
+          "visualCue": "countdown"
+        },
+        {
+          "id": 46,
+          "japanese": "一歩踏み出してみた",
+          "romaji": "ippo fumidashite mita",
+          "translation": "试着踏出了一步",
+          "wordAnalysis": [
+            {
+              "word": "一歩",
+              "reading": "いっぽ",
+              "meaning": "一步",
+              "grammar": "名詞"
+            },
+            {
+              "word": "踏み出して",
+              "reading": "ふみだして",
+              "meaning": "迈出脚步",
+              "grammar": "動詞連用形"
+            },
+            {
+              "word": "みた",
+              "reading": "みた",
+              "meaning": "试着做",
+              "grammar": "助動詞過去形"
+            }
+          ],
+          "grammarNotes": "「〜てみる」= 试着做某事；表示尝试的意思",
+          "emotion": "勇气",
+          "visualCue": "first_step"
+        },
+        {
+          "id": 47,
+          "japanese": "受け入れながら",
+          "romaji": "ukeire nagara",
+          "translation": "一边接纳着",
+          "wordAnalysis": [
+            {
+              "word": "受け入れ",
+              "reading": "うけいれ",
+              "meaning": "接受、接纳",
+              "grammar": "動詞連用形"
+            },
+            {
+              "word": "ながら",
+              "reading": "ながら",
+              "meaning": "一边…一边…",
+              "grammar": "助詞"
+            }
+          ],
+          "grammarNotes": "「〜ながら」= 表示同时进行的动作",
+          "emotion": "接纳",
+          "visualCue": "acceptance"
+        },
+        {
+          "id": 48,
+          "japanese": "祈りながら",
+          "romaji": "inori nagara",
+          "translation": "一边祈祷着",
+          "wordAnalysis": [
+            {
+              "word": "祈り",
+              "reading": "いのり",
+              "meaning": "祈祷",
+              "grammar": "名詞"
+            },
+            {
+              "word": "ながら",
+              "reading": "ながら",
+              "meaning": "一边…一边…",
+              "grammar": "助詞"
+            }
+          ],
+          "grammarNotes": "「〜ながら」= 表示同时进行的动作",
+          "emotion": "希望",
+          "visualCue": "prayer"
+        }
+      ]
+    }
+  ],
+  "themes": [
+    {
+      "name": "自我反思",
+      "keywords": [
+        "僕",
+        "嫌になっちゃう",
+        "繰り返して",
+        "身勝手"
+      ],
+      "color": "#4A90E2",
+      "description": "对自己过去行为的反省和批判"
+    },
+    {
+      "name": "勇气与改变",
+      "keywords": [
+        "勇気",
+        "変えられた",
+        "踏み出して",
+        "やりなおせ"
+      ],
+      "color": "#F5A623",
+      "description": "寻找改变现状的勇气和力量"
+    },
+    {
+      "name": "时间与回忆",
+      "keywords": [
+        "あの日",
+        "あの時",
+        "瞬間",
+        "明日"
+      ],
+      "color": "#7ED321",
+      "description": "对过去的怀念和对未来的期待"
+    },
+    {
+      "name": "孤独与连接",
+      "keywords": [
+        "君",
+        "僕たち",
+        "誰か",
+        "サヨナラ"
+      ],
+      "color": "#D0021B",
+      "description": "人际关系中的孤独感和渴望连接"
+    }
+  ],
+  "interactiveElements": {
+    "wordHover": true,
+    "grammarTooltips": true,
+    "emotionVisualization": true,
+    "progressiveReveal": true,
+    "themeFiltering": true,
+    "audioSync": false
+  },
+  "metadata": {
+    "totalVerses": 30,
+    "sections": 5,
+    "avgWordsPerVerse": 6.2,
+    "complexityLevel": "intermediate",
+    "grammarPoints": [
+      "過去形",
+      "可能態",
+      "被動態",
+      "假定形",
+      "希望形",
+      "助詞用法"
+    ]
+  }
+}
